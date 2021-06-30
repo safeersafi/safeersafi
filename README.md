@@ -6,8 +6,8 @@
 ## 🐲  Safeer  🐲  
 ### The Programmer
 
-- [RavinduManoj](https://github.com/RavinduManoj)
-- [@RavinduManoj](https://t.me/RavinduManoj)
+- [safeersafi](https://github.com/RavinduManoj)
+- [@safeersafi](https://t.me/RavinduManoj)
 
 ```
 ❤Java❤
